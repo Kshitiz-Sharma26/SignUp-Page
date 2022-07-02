@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+    margin: auto;
+}
+body{
+    background-color: #8989f8;
+    margin: 3% auto 10% auto;
+}
+.btn{
+    padding: 0.5rem 6rem;
+}
+.container{
+    border-radius: 2rem;
+    background-color:#d7d7f16c;
+    padding: 2rem;
+    /* margin: 10% 2%; */
+}
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;;
+}
